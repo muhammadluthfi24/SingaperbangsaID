@@ -1,6 +1,6 @@
-# SingaperbangsaID 🚀
+# **SingaperbangsaID** 🚀
 
-> Website resmi Singaperbangsa – Portal informasi dan layanan resmi.  
+> Website resmi **SingaperbangsaID** – Portal informasi dan layanan resmi.  
 > Dirancang dengan standar profesional, responsif, dan modern.
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -19,12 +19,12 @@ Segala bentuk cloning, distribusi, atau penggunaan tanpa izin dianggap **pelangg
 
 ## 📌 Deskripsi Proyek
 
-SingaperbangsaID adalah website resmi yang menyediakan:  
+**SingaperbangsaID** adalah website resmi yang menyediakan:  
 
-- Informasi terkini dan resmi tentang Singaperbangsa  
-- Layanan online untuk administrasi & publikasi  
-- Integrasi sistem internal untuk manajemen konten  
-- Tampilan profesional, responsif, dan modern  
+- **Informasi terkini dan resmi tentang Singaperbangsa**  
+- **Layanan online untuk administrasi & publikasi**  
+- **Integrasi sistem internal untuk manajemen konten**  
+- **Tampilan profesional, responsif, dan modern**  
 
 ---
 
