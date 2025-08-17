@@ -51,10 +51,10 @@ flowchart LR
     E --> H
 
 ---
-## 📄 Lisensi & Hak Cipta
+📄 Lisensi & Hak Cipta
 
-© 2025 Outlet Oleh Oleh Singaperbangsa Karawang . Semua hak cipta dilindungi.  
-Repositori ini tidak bersifat open-source.  
-Penggunaan, distribusi, cloning, atau modifikasi tanpa izin tertulis *dilarang keras* dan dapat dikenakan *tindakan hukum sesuai kebijakan perusahaan*.
+© 2025 Outlet Oleh Oleh Singaperbangsa Karawang. Semua hak cipta dilindungi.
+Repositori ini tidak bersifat open-source.
+Penggunaan, distribusi, cloning, atau modifikasi tanpa izin tertulis dilarang keras dan dapat dikenakan tindakan hukum sesuai kebijakan perusahaan.
 
 
