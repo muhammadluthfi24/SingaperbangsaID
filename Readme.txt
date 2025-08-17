@@ -39,7 +39,7 @@ Website ini dirancang untuk **akses resmi dan terpercaya**, dengan tampilan prof
 
 ## 📄 Lisensi & Hak Cipta
 
-© 2025 SingaperbangsaID. Semua hak cipta dilindungi.  
+© 2025 Outlet Oleh Oleh Singaperbangsa Karawang . Semua hak cipta dilindungi.  
 Repositori ini **tidak bersifat open-source**.  
 Penggunaan, distribusi, cloning, atau modifikasi tanpa izin tertulis **dilarang keras** dan dapat dikenakan **tindakan hukum sesuai kebijakan perusahaan**.
 
