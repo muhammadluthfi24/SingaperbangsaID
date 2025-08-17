@@ -1,10 +1,7 @@
-# **SingaperbangsaID** 🚀
+# SingaperbangsaID
 
 > Website resmi **SingaperbangsaID** – Portal informasi dan layanan resmi.  
 > Dirancang dengan standar profesional, responsif, dan modern.
-
-![Project Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-private-red)
 
 ---
 
